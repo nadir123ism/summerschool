@@ -11,7 +11,7 @@ git pull https://github.com/csc-training/summerschool.git
 
 Versions from previous years can be found in tags.
 
-## Exercises
+## Exercises for version control by Nadir Khan
 
  - [General instructions](exercise-instructions.md)
  - [Fortran programming](programming/fortran)
